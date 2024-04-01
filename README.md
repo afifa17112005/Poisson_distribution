@@ -1,4 +1,4 @@
-      NAME:A.AFIFA
+     NAME:A.AFIFA
     REGISTER NO:212223040008
 # EX:2 Fitting Poisson  distribution
 # Aim : 
