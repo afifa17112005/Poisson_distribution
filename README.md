@@ -1,5 +1,5 @@
-## NAME:KIRAN BALAJI.H 
-## REGISTER NO:212223040096
+## NAME:A.AFIFA
+## REGISTER NO:212223040008
 # EX:2 Fitting Poisson  distribution
 # Aim : 
 
