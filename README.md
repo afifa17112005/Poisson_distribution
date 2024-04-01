@@ -1,5 +1,5 @@
-    NAME:Amirthavarshini.R.D
-    REGISTER NO:212223040013
+## NAME:KIRAN BALAJI.H 
+## REGISTER NO:212223040096
 # EX:2 Fitting Poisson  distribution
 # Aim : 
 
