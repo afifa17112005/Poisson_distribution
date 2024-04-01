@@ -1,5 +1,5 @@
-    NAME:Amirthavarshini.R.D
-    REGISTER NO:212223040013
+    NAME:AFIFA.A
+    REGISTER NO:212223040008
 # EX:2 Fitting Poisson  distribution
 # Aim : 
 
